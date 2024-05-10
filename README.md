@@ -1,17 +1,18 @@
 # NOC App V2.0
 
-This is the enhanced version of the existing NOC mobile application which use by Network Operation Center in Sri Lanka Telecom to manage their day-to-day network operations.
+This is the enhanced version of the existing NOC mobile application used by the Network Operation Center in Sri Lanka Telecom to provide an enhanced user experience and new features to empower the users in managing their network operations more efficiently. With a refreshed user interface boasting an eye-relaxing color palette and intuitive navigation, accessing and analyzing user data has never been easier.
 
 ## Whats new in NOC App V2.0
 
-- New and User-Friendly UIs.
-- Gain quick insights through Google Maps without diving deep.
-- Easy access to main operations with a single click.
-- Added the features which were only accessible through web applications.
+- New Features: We've incorporated features that were previously only accessible through web applications.
+- Enhanced User Interface: Enjoy a visually pleasing experience with our redesigned interface, optimized for ease of use and accessibility.
+- Quick Navigation: Navigate through the app effortlessly with improved menu layouts and intuitive gestures.
+-	Insightful Analytics: Gain valuable insights at a glance with the new dashboard, allowing you to make informed decisions quickly.
+
 
 ## Tool Stack
 
-Figma tool was used to design the UIs and used Flutter to build the app for cross-platforms. To interact with the databases, I integrated the already implemented SOAP web services and Google Maps to interact with the location-based operations. Used SOAP UI sosftware to test the web services. Android Studio was used as the development platform.
+The UIs were designed using the Figma tool, while the app was built for cross-platform compatibility using Flutter. To interact with the databases, I integrated the existing SOAP web services, and incorporated Google Maps for location-based operations. Testing of the web services was conducted using SOAP UI software. Android Studio served as the primary development platform.
 
 <p align="left" >
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="html5" width="40" height="40"/> </a>
@@ -22,4 +23,8 @@ Figma tool was used to design the UIs and used Flutter to build the app for cros
 </p>
 
 ## Screenshots
+
+![Untitled design](https://github.com/MadhukaD/NOC-App/assets/83831219/a98ca0da-740c-4961-8131-a26ca728ac80)
+
+
 
