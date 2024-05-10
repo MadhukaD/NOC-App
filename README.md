@@ -4,10 +4,10 @@ This is the enhanced version of the existing NOC mobile application used by the 
 
 ## Whats new in NOC App V2.0
 
-- New Features: We've incorporated features that were previously only accessible through web applications.
-- Enhanced User Interface: Enjoy a visually pleasing experience with our redesigned interface, optimized for ease of use and accessibility.
-- Quick Navigation: Navigate through the app effortlessly with improved menu layouts and intuitive gestures.
--	Insightful Analytics: Gain valuable insights at a glance with the new dashboard, allowing you to make informed decisions quickly.
+- **New Features**: We've incorporated features that were previously only accessible through web applications.
+- **Enhanced User Interface**: Enjoy a visually pleasing experience with our redesigned interface, optimized for ease of use and accessibility.
+- **Quick Navigation**: Navigate through the app effortlessly with improved menu layouts and intuitive gestures.
+-	**Insightful Analytics**: Gain valuable insights at a glance with the new dashboard, allowing you to make informed decisions quickly.
 
 
 ## Tool Stack
@@ -22,6 +22,7 @@ The UIs were designed using the Figma tool, while the app was built for cross-pl
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" alt="css3" width="40" height="40"/> </a>
 </p>
 
+***To maintain confidentiality and protect proprietary information, the source code has not been uploaded to this repository.***
 ## Screenshots
 
 ![Untitled design](https://github.com/MadhukaD/NOC-App/assets/83831219/a98ca0da-740c-4961-8131-a26ca728ac80)
